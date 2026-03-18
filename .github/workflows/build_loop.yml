@@ -220,8 +220,7 @@ jobs:
           lnl_icon \
           profiles \
           basal_lock \
-          no_auth \
-          live_activity
+          no_auth
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
